@@ -40985,7 +40985,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: #c96747;
+            background-color: #e30713;
         }
 
         .u-input.u-custom-color-2,
@@ -40994,7 +40994,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #c96747 !important;
+            background-color: #e30713 !important;
         }
 
         .u-button-style.u-custom-color-2:hover,
@@ -41009,7 +41009,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #bd5838 !important;
+            background-color: #cc0611 !important;
         }
 
         .u-hover-custom-color-2:hover,
@@ -41035,11 +41035,11 @@ a.u-link.u-text-hover-grey-90:hover {
         input.u-field-input.u-field-input.u-active-custom-color-2:checked
         {
             color: #ffffff !important;
-            background-color: #c96747 !important;
+            background-color: #e30713 !important;
         }
 
         a.u-link.u-hover-custom-color-2:hover {
-            color: #c96747 !important;
+            color: #e30713 !important;
         }
 
         
@@ -41101,14 +41101,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-2.u-field-input.u-field-input,
         .u-separator-custom-color-2:after
         {
-            border-color: #c96747;
-            stroke: #c96747;
+            border-color: #e30713;
+            stroke: #e30713;
         }
 
         .u-button-style.u-border-custom-color-2
         {
-            border-color: #c96747 !important;
-            color: #c96747 !important;
+            border-color: #e30713 !important;
+            color: #e30713 !important;
             background-color: transparent !important;
         }
 
@@ -41116,7 +41116,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-2:focus
         {
             border-color: transparent !important;
-            color: #bd5838 !important;
+            color: #cc0611 !important;
             background-color: transparent !important;
         }
 
@@ -41132,18 +41132,18 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-2,
         input.u-field-input.u-field-input.u-border-active-custom-color-2:checked
         {
-            color: #c96747 !important;
-            border-color: #c96747 !important;
+            color: #e30713 !important;
+            border-color: #e30713 !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]
         {
-            border-color: #c96747 !important;
+            border-color: #e30713 !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]:hover
         {
-            border-color: #bd5838 !important;
+            border-color: #cc0611 !important;
         }
         
 
@@ -41226,7 +41226,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
         {
-            color: #c96747 !important;
+            color: #e30713 !important;
         }
 
         a.u-button-style.u-text-custom-color-2:hover,
@@ -41238,7 +41238,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-2.active,
         a.u-button-style.u-button-style.u-text-custom-color-2[class*="u-border-"].active
         {
-            color: #bd5838 !important;
+            color: #cc0611 !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-2,
@@ -41265,7 +41265,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-2 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-2 .u-nav-link.active
         {
-            color: #c96747 !important;
+            color: #e30713 !important;
         }
 
         .u-text-custom-color-2 .u-svg-link,
@@ -41274,17 +41274,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-2 .u-svg-link,
         .u-text-hover-custom-color-2:focus .u-svg-link
         {
-            fill: #c96747;
+            fill: #e30713;
         }
 
         .u-link.u-text-custom-color-2:hover
         {
-            color: #bd5838 !important;
+            color: #cc0611 !important;
         }
 
         a.u-link.u-text-hover-custom-color-2:hover
         {
-            color: #c96747 !important;
+            color: #e30713 !important;
         }
 
         .u-body
@@ -41734,11 +41734,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-sheet-1 {
   min-height: 120px;
 }
-
-.u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
-}
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
     min-height: 99px;
@@ -41757,10 +41752,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
     min-height: 36px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 340px;
   }
 }
 
